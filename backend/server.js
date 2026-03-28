@@ -18,5 +18,5 @@ app.listen(process.env.PORT, () => {
 app.use(cors());
 
 app.get("/test", (req, res) => {
-  res.json({ message: "Backend is working 🚀" });
+  res.json({ message: "Backend is working " });
 });

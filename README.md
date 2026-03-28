@@ -1,4 +1,4 @@
-# 🚀 AI Investor Copilot
+#  AI Investor Copilot
 
 <p align="center">
   <b>GenAI-powered Portfolio Intelligence System for Smarter Investing 📊</b><br/>
@@ -7,7 +7,7 @@
 
 ---
 
-## 💡 Problem Statement
+## Problem Statement
 
 Retail investors today rely on fragmented sources like news, social media tips, and intuition to make financial decisions. This leads to:
 
@@ -20,7 +20,7 @@ There is a need for a system that can **analyze portfolios intelligently and pro
 
 ---
 
-## 🧠 Solution Overview
+##  Solution Overview
 
 **AI Investor Copilot** is a GenAI-powered system that:
 
